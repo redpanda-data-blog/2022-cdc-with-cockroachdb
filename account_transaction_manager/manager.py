@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """
-Test psycopg with CockroachDB.
+Account Transaction Manager
+
+Original example page: https://github.com/cockroachlabs/hello-world-python-psycopg2
 """
 
 import time
