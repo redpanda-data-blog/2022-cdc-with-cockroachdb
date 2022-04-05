@@ -2,7 +2,7 @@
 """
 Account Transaction Manager
 
-Original example page: https://github.com/cockroachlabs/hello-world-python-psycopg2
+Original example: https://github.com/cockroachlabs/hello-world-python-psycopg2
 """
 
 import time
